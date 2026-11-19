@@ -1,0 +1,1 @@
+Open index.html in a browser. To publish, upload index.html, style.css and script.js to the root of a GitHub repository, then enable GitHub Pages from Settings > Pages.
